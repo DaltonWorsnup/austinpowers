@@ -1,0 +1,25 @@
+{
+  "name": "austinpowers",
+  "owner": {
+    "name": "DaltonWorsnup"
+  },
+  "metadata": {
+    "description": "Combined workflow plugin for software engineering and knowledge work — unified task routing, TDD, systematic debugging, brainstorming, planning, and 28 expert workflows."
+  },
+  "plugins": [
+    {
+      "name": "austinpowers",
+      "description": "Combined workflow plugin for software engineering and knowledge work — unified task routing, TDD, systematic debugging, brainstorming, planning, and 28 expert workflows.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent, REPOZY, fast.xyz -- altered by DaltonWorsnup"
+      },
+      "homepage": "https://github.com/DaltonWorsnup/austinpowers",
+      "repository": "https://github.com/DaltonWorsnup/austinpowers",
+      "category": "productivity",
+      "keywords": ["skills", "tdd", "debugging", "code-review", "workflows", "agentic", "token-efficiency", "hooks", "safety", "subagent"],
+      "tags": ["superpowers", "claude-code", "cursor", "codex", "agent-workflow"]
+    }
+  ]
+}

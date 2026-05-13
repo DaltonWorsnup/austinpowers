@@ -1,0 +1,25 @@
+{
+  "name": "austinpowers",
+  "description": "Combined workflow skills for software engineering and knowledge work — disciplined task routing, TDD enforcement, safety hooks, systematic debugging, brainstorming, planning, and 28 expert workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dalton Worsnup",
+    "email": "dalton@bam-partners.com"
+  },
+  "homepage": "https://github.com/DaltonWorsnup/austinpowers",
+  "repository": "https://github.com/DaltonWorsnup/austinpowers",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "knowledge-work",
+    "brainstorming",
+    "planning",
+    "workflows",
+    "agentic",
+    "token-efficiency",
+    "hooks",
+    "safety"
+  ]
+}

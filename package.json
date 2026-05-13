@@ -1,0 +1,13 @@
+{
+  "name": "austinpowers",
+  "version": "1.0.0",
+  "description": "Combined workflow plugin for Claude Code — software engineering and knowledge work",
+  "license": "MIT",
+  "author": "Dalton Worsnup <dalton@bam-partners.com>",
+  "homepage": "https://github.com/DaltonWorsnup/austinpowers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaltonWorsnup/austinpowers.git"
+  },
+  "keywords": ["claude", "claude-code", "plugin", "skills", "workflows", "tdd", "knowledge-work"]
+}

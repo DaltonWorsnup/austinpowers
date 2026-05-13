@@ -1,0 +1,28 @@
+austinpowers
+============
+
+This software is a derivative work based on:
+
+1. superpowers (https://github.com/obra/superpowers)
+   Copyright (c) 2025 Jesse Vincent
+   MIT License
+
+2. superpowers-optimized (https://github.com/REPOZY/superpowers-optimized)
+   Copyright (c) 2025 Jesse Vincent, forked by REPOZY
+   MIT License
+
+3. normalpowers (https://github.com/fastxyz/normalpowers)
+   Copyright (c) 2025 Jesse Vincent
+   Copyright (c) 2026 Pi Squared Inc.
+   MIT License
+
+The original superpowers project established the core pattern of skill-based
+workflow routing for LLM assistants. superpowers-optimized extended this with
+comprehensive hooks, token-efficiency optimizations, and additional engineering
+workflows. normalpowers adapted the pattern for generalist knowledge workers
+outside the software development domain.
+
+austinpowers combines and extends both, providing a unified plugin for teams
+whose work spans software engineering and knowledge work.
+
+All original copyright notices are retained in accordance with the MIT License.

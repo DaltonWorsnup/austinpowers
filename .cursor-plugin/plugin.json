@@ -1,0 +1,15 @@
+{
+  "name": "austinpowers",
+  "displayName": "Austinpowers",
+  "description": "Combined workflow plugin — unified routing for software engineering and knowledge work, TDD enforcement, safety hooks, systematic debugging, code review, and more",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dalton Worsnup"
+  },
+  "homepage": "https://github.com/DaltonWorsnup/austinpowers",
+  "repository": "https://github.com/DaltonWorsnup/austinpowers",
+  "license": "MIT",
+  "keywords": ["skills", "tdd", "debugging", "code-review", "workflows", "agentic", "token-efficiency", "hooks", "safety", "subagent", "knowledge-work"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

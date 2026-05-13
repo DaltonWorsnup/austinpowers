@@ -1,0 +1,17 @@
+{
+  "name": "austinpowers",
+  "version": "1.0.0",
+  "description": "Combined workflow plugin for Claude Code — software engineering and knowledge work. Skills work on all platforms. Lifecycle hooks (routing, safety, reminders) require separate setup on macOS/Linux.",
+  "author": {
+    "name": "Dalton Worsnup"
+  },
+  "homepage": "https://github.com/DaltonWorsnup/austinpowers",
+  "repository": "https://github.com/DaltonWorsnup/austinpowers",
+  "license": "MIT",
+  "keywords": ["skills", "tdd", "debugging", "code-review", "workflows", "agentic", "token-efficiency", "hooks", "safety", "subagent", "knowledge-work"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Austinpowers",
+    "shortDescription": "28 workflow skills — software engineering and knowledge work, unified routing"
+  }
+}
